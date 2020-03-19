@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello OTP, jos malo i gotovo :)";
+echo "Hello Kanc za IT, jos malo i gotovo :)";
 // get the host name
 echo "<br>";
 echo gethostname();
