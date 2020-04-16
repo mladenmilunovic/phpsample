@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello MFSA !";
+echo "Hello Malta from Serbia!";
 // get the host name
 echo "<br>";
 echo gethostname();
